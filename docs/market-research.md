@@ -1,117 +1,140 @@
-# Market Research Report
+Capstone Project – Week Two
+Market Research
 
-## Competitor List
-The following are sample competitors and existing solutions relevant to the **International Student Housing Finder** project in the Australian market:
 
-1. **realestate.com.au**
-   - A major Australian property platform with broad rental listings.
-2. **Domain**
-   - Another major Australian platform for rental and property search.
-3. **Flatmates.com.au**
-   - A platform focused on shared accommodation and room rentals.
-4. **Student.com**
-   - A global student accommodation platform with listings in major education cities.
-5. **University accommodation portals / student housing pages**
-   - Institution-specific housing information and partner accommodation listings.
+1.0 Introduction
 
-## Competitor Feature Comparison
+The second week of the project focuses on conducting a comprehensive market research to better understand the current landscape of  creating a telehealth appointment platform. This is essential for ensuring that the platform is not only technically sound but also aligns with real-world needs and competitive design and standards. By analyzing current existing platforms that are already in the market, we can gather key points as well as identify any market gaps that these already existing platforms have. These insights will guide the overall design decisions, feature prioritization, and overall system direction of the project. Any findings from this week will serve as a foundation for creating a platform that is relevant, competitive, and responsive to the evolving demands of the project. 
 
-### 1. realestate.com.au
-**Features offered:**
-- property search by suburb and price
-- filters for bedrooms, bathrooms, and property type
-- listing images and descriptions
-- map-based browsing
+2.0 Weekly Objective
 
-**Limitations:**
-- designed for the general market, not specifically for students
-- limited focus on student needs such as shared housing suitability or campus travel convenience
-- can be overwhelming for first-time international users
+The objective for this week is to gather, analyze, and synthesize market data to identify the direction the telehealth appointment platform is heading. This will include understanding the competitive landscape, identifying user needs, and evaluating industry standards. The insights will greatly help refine the project’s scope. 
 
-### 2. Domain
-**Features offered:**
-- rental listings with search filters
-- suburb-based search
-- map and listing views
-- alerts and saved searches
+Key goals:
 
-**Limitations:**
-- not tailored for international students
-- assumes some familiarity with suburbs and local housing expectations
-- little student-specific decision support
+Conduct a comparative analysis of existing telehealth platforms and their core features Identify strengths, weaknesses, opportunities, and threats (SWOT) within the telehealth market
+Gather user insights through surveys, interviews, or secondary research
+Analyze industry trends, emerging technologies, and best practices in telemedicine
+Review relevant healthcare regulations, privacy standards, and compliance requirements
+Summarize findings to guide system design, feature prioritization, and user experience decisions
 
-### 3. Flatmates.com.au
-**Features offered:**
-- shared room and housemate listings
-- budget-friendly accommodation options
-- user profiles and direct messaging
-- filtering by lifestyle and preferences
+3.0 Activities 
 
-**Limitations:**
-- stronger for shared housing than broader student housing decisions
-- listing quality and trust can vary
-- limited structured comparison for students trying to evaluate multiple areas
+Competitive Analysis of Telehealth Platforms
+Identify leading telehealth platforms (local and international) for comparison
+Evaluate their features, usability, pricing models, and target audiences
+Analyze user reviews and feedback to understand common strengths and weaknesses
+Document gaps or unmet needs that your platform can address
+Create a comparison matrix summarizing key finding
 
-### 4. Student.com
-**Features offered:**
-- student accommodation listings
-- city and university-based search
-- room type and amenity details
-- focused student housing experience
+3.1 Competitor Research
 
-**Limitations:**
-- may focus more on purpose-built student accommodation
-- may not cover all affordable private rental or shared housing options
-- can be expensive relative to student budgets
+A thorough examination of the Australian telehealth landscape was conducted to identify the key platforms currently operating within the market .Understnding these competitor is essential to identifying the best practices ,potential gaps ,and opportunities for differentiation 
+The following five platforms were identified as the most prominent competitors relevant to this project.
+-Hotdoc 
+-Coviu
+-Health engine 
+-InstantConsult
+-Doctors on demand 
 
-### 5. University accommodation portals
-**Features offered:**
-- official or recommended housing information
-- on-campus and partner accommodation references
-- trusted student-facing content
+3.2 Feature Comparison:
 
-**Limitations:**
-- often limited in choice
-- may not support detailed comparison across the wider market
-- may not help students explore affordable off-campus alternatives effectively
+After the research on the top competition on the recent market of Australia .We compare the market leaders on different categories that can help us better understand the project scope of Telehealth appointment platform so that it can better fill the gap and people can find everything on one system .
 
-## Market Opportunity
-There is a clear opportunity to create a housing discovery tool specifically designed for international students in Australia.
+Feature 
+Hotdoc 
+Coviu
+Health engine 
+Instant Consult 
+Doctors on Demand
+Core focus 
+Booking platform +on demand telehealth 
+Telehealth infrastructure 
+Booking marketplace +telehealth partner 
+Ondemand video GP 
+On demand   24/7
+Consultation
 
-The current market has useful platforms, but most of them either:
-- target the general rental market
-- focus only on one type of accommodation
-- provide listings without enough student-specific decision support
+Pricing 
+From $45,
+User Experience
+Availability 
 
-International students have specific needs that are not fully addressed by existing solutions. These include:
-- understanding which suburbs are practical for student life
-- comparing travel time to campus
-- balancing affordability with convenience and safety
-- identifying trustworthy and suitable listings quickly
-- narrowing down options without local knowledge
+3.3 Market Analysis
+The Australian telehealth market has undergone a period of rapid and sustained transformation, driven primarily by the disruptions caused by the COVID-19 pandemic and reinforced by subsequent shifts in government policy, patient behaviour, and digital health infrastructure. Prior to 2020, telehealth in Australia remained largely restricted to patients in rural and remote areas under specific Medicare eligibility criteria, limiting widespread adoption despite the availability of the underlying technology.
 
-In Australia, this opportunity is significant because international students are a major part of the education sector and often relocate into unfamiliar rental markets in cities with high housing pressure.
+According to the Australian Institute of Health and Welfare (AIHW), over 100 million telehealth consultations were delivered in the two years following this policy change,an unprecedented surge in adoption . In 2021, these arrangements were made permanent, formally establishing telehealth as a mainstream component of the national healthcare system.The growth in service volume and government investment from 2018 through to 2026 is illustrated in the chart below.
 
-## Unique Value Proposition
-The unique value proposition of **International Student Housing Finder** is that it is designed specifically for international students, not for the general rental market.
+SWOT analysis :
+Strengths: Widespread consumer acceptance and proven convenience of telehealth.
+Weaknesses: Fragmented user experiences and accessibility shortfalls for vulnerable groups.
+Opportunities: High potential for a unified, user-centred platform that seamlessly integrates scheduling, consultations, records, and notifications while prioritising simplicity, security, and rural reach—directly addressing current market gaps.
+Threats: Regulatory changes and competition from established players.
+The proposed telehealth appointment platform is entering a landscape where the foundational conditions -patient readiness, government support, and an identified service gap — are firmly in place.
 
-It would provide value by combining:
-- housing search tailored to student priorities
-- comparison of listings in a student-friendly format
-- Australian market context for suburbs, transport, and lifestyle factors
-- a simpler and more guided decision-making experience
+4.0 Questions To Answer
 
-Unlike broad real estate websites, this platform would focus on helping international students answer practical questions such as:
-- Is this place affordable for my budget?
-- How far is it from campus?
-- Is the area suitable for student living?
-- Are there transport and essential services nearby?
+While transitioning into the next phase of the project, it is essential to assess industry competitors and what features set them apart. While understanding competitor strengths is important, it is also necessary to know their weaknesses in order to develop a better booking platform. These questions will be answered in this section.
 
-## Summary of Unsolved Problems
-Even with existing competitors, these problems remain unsolved:
-- lack of student-specific filtering and comparison
-- limited support for students unfamiliar with Australian cities
-- scattered information across multiple platforms
-- weak guidance for first-time renters arriving from overseas
+4.1 Who Are The Top 5 Competitors?
 
-This creates a strong case for a focused solution like **International Student Housing Finder**.
+The top 5 competitors present in the Australian telehealth market are:
+
+Hotdoc: Australia's largest telehealth platform with over 21,000 listed doctors and 7 million active patients. 
+Coviu: A government backed telehealth platform.
+Healthengine: Telehealth platform that processes millions of bookings across all of Australia.
+InstantConsult: Referred to as the gold standard of telehealth services, allowing users to connect with AHPRA-registered doctors via video call within 15 minutes.
+Doctors On Demand: Providing 24 hour urgent care via online doctor services.
+
+4.2 What Features Do They Offer?
+
+All listed telehealth platforms offer a similar range of services, providing real-time appointment scheduling and management options to their customers. These organizations provide online consultations through video or phone and offer electronically transmitted scripts and medical certificates. They also offer secure and authenticated login systems and payment gateways. Furthermore, almost all of these providers have developed mobile applications to make their services more accessible to people all over Australia, especially those who are unable to access health services with ease.
+
+4.3 What Problems Remain Unsolved?
+
+Even though the platform is carefully designed to address a lot of needs, there are several challenges that remain unsolved. Highlighted areas for future improvement and development are such as:
+Limited access to internet and technology
+Not everyone has the same access to the internet and technology. Low-income individuals and people living in rural or remote areas often have less access to the internet and technology, rendering the platform to be less effective.
+
+Technology literacy issues
+Patients who are unfamiliar with technology, such as elderly patients or people who grew up in rural areas, may not be comfortable using digital platforms. They may struggle with creating accounts, booking appointments, joining virtual consultations or managing notifications. This reduces the accessibility of the telehealth platform.
+
+Lack of physical examination
+The appointments being done digitally means that doctors cannot perform physical examinations, conduct certain medical tests and diagnose complex conditions accurately.
+
+Privacy and security concerns
+Letting patients upload their sensitive data online means that the platform needs to make sure they handle the data carefully to adapt to cyber threats, such as data breaches, unauthorised access and cybersecurity threats. 
+
+5.0 Market Opportunity
+
+
+5.1 Unique Value Proposition
+The proposed telehealth appointment platform aims to differentiate itself from existing solutions by focusing on simplicity, integration, accessibility, and security. While current platforms such as HotDoc and HealthEngine provide essential booking and consultation features, they often lack a fully integrated and user-centred experience.
+
+The unique value proposition of this platform lies in delivering an all-in-one, intuitive telehealth solution that addresses both patient and provider pain points.
+Key differentiators include:
+
+User-Centred Design
+ The platform will prioritise a clean and intuitive interface, reducing complexity in booking appointments and managing consultations, particularly for elderly users and those with limited technical skills.
+ 
+Integrated System Functionality
+ Unlike fragmented systems, the platform will combine appointment scheduling, video consultations, patient records, and notifications into a single unified system, improving efficiency and reducing administrative burden.
+ 
+Enhanced Accessibility
+ The platform will be designed to support users in rural and remote areas, ensuring equitable access to healthcare services regardless of geographical limitations.
+ 
+Strong Security and Privacy Measures
+ Given the sensitivity of healthcare data, the platform will incorporate secure authentication, encrypted communication, and compliance with Australian regulations such as the Privacy Act 1988.
+ 
+Scalability and Future Readiness
+ The system will be designed with scalability in mind, allowing for future integration with emerging technologies such as AI-assisted diagnostics and electronic health record (EHR) systems.
+ 
+By addressing the limitations of existing platforms and focusing on a seamless user experience, the proposed solution aims to deliver a more efficient, secure, and accessible telehealth service.
+
+6.0 Conclusion
+
+This week’s market research has provided valuable insights into the current telehealth landscape, including key competitors, commonly offered features, and existing gaps within the market. The analysis highlights that while many platforms provide essential telehealth services, there are still significant opportunities to improve usability, system integration, and accessibility.
+
+The findings also demonstrate that the demand for telehealth solutions continues to grow, driven by technological advancements and changing user expectations following the COVID-19 pandemic. In the Australian context, increasing reliance on digital healthcare services further reinforces the need for platforms that are secure, efficient, and compliant with regulatory standards.
+
+Based on the research conducted, the proposed telehealth appointment platform is well-positioned to address current limitations in the market by offering a user-focused, integrated, and scalable solution. These insights will guide the next stages of the project, particularly in refining system design, prioritising features, and ensuring the platform aligns with both user needs and industry standards.
